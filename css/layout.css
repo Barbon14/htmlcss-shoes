@@ -7,11 +7,26 @@
 }
 
 /* contenuto pagina */
+
+/* scheda prodotto */
 .product {
     height: 100vh;
-    background-color: #ff0f17;
     position: relative;
 }
+
+/* colori sfondo */
+.backred {
+    background-color: #ff0f17;
+}
+
+.backyellow {
+    background-color: #ffff37;
+}
+
+.backgreen {
+    background-color: #008013;
+}
+
 
 .product * {
     text-align: center;
@@ -24,8 +39,15 @@
     transform: translate(-50%, -50%);
 }
 
+/* testo */
 .product h1 {
-    font-size: 60px;
+    font-size: 65px;
+}
+
+.fontyellow {
     color: #ffff37;
-    top: 80%;
+}
+
+.fontgreen {
+    color: #008013;
 }
