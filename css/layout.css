@@ -3,7 +3,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Rubik Mono One', sans-serif;
 }
 
 /* contenuto pagina */
@@ -27,7 +27,7 @@
     background-color: #008013;
 }
 
-
+/* posizionamento */
 .product * {
     text-align: center;
 }
@@ -41,7 +41,7 @@
 
 /* testo */
 .product h1 {
-    font-size: 65px;
+    font-size: 56px;
 }
 
 .fontyellow {
